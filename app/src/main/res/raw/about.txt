@@ -1,0 +1,38 @@
+HYGEIA 1.0
+
+HYGEIA is an application made by students to fullfill the requirement in their subject LBYCP24, to implement what they have learned in the said subject, and to contribute socialy to the Breast Cancer Awareness Month which is October. HYGEIA consists of several information about Breast Cancer such as its diagnosis, treatments, statistics, and scientific facts. The app is targeted for women all over the world but its main audience are the women in the Philippines since the app consists of detailed statistics in the Philippines. HYGEIA is made for educational,social, and awarness purposes.
+
+WHAT TO KNOW
+A section that answers to the nature of the cancer itself;
+ its cause and its current statistics.
+
+WHAT TO HAPPEN
+The section that shows the different diagnosis the patient undergoes
+as well how they are treated
+
+WHAT TO EXPECT
+The section that consists of the advancement in breast cancer
+and survivor story videos
+
+NOTES:
+-BUGS will be fixed on the next update
+
+The developers would like to thank Engineer Melvin Cabatuan
+for helping and guiding them in developing Hygeia.
+
+In cooperation with:
+De La Salle University's        
+CHED Philippine Higher Education Research Network- 
+(PHERNet) Sustainability Studies Program
+Intelligent Systems Laboratory,
+De La Salle University
+
+Sources:
+-http://www.breastcancer.org
+-http://www.cancer.org
+
+
+
+
+
+
